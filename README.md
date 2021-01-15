@@ -1,1 +1,1 @@
-GeekBrains-lessons
+GeekBrains homework directory
